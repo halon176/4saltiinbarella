@@ -1,0 +1,15 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/ghazal"]
+	path = themes/ghazal
+	url = https://github.com/darshanbaral/ghazal.git
+[submodule "themes/goa"]
+	path = themes/goa
+	url = https://github.com/shenoybr/hugo-goa
+[submodule "themes/ublogger"]
+	path = themes/ublogger
+	url = https://github.com/uPagge/uBlogger.git
+[submodule "themes/lynx"]
+	path = themes/lynx
+	url = https://github.com/jpanther/lynx.git
