@@ -5,6 +5,8 @@ title = '4 Salti in Barella'
 theme = "lynx"
 
 enableEmoji = true
+googleAnalytics = 'UA-213628327-1'
+
 
 
 [author]
@@ -50,5 +52,4 @@ enableEmoji = true
     # { youtube = "https://youtube.com/username" },
       { email = "mailto:info@4saltiinbarella.it"},
   ]
-googleAnalytics = "UA-213628327-1"
 
