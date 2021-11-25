@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>4 Salti in Barella</title>
+    <link>https://4saltiinbarella.it/</link>
+    <description>Recent content on 4 Salti in Barella</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://4saltiinbarella.it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regolamento Canale Telegram</title>
+      <link>https://4saltiinbarella.it/regolamento/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://4saltiinbarella.it/regolamento/</guid>
+      <description>Il non rispetto delle regole provoca l&amp;rsquo;ammonimento e, nel caso il comportamento venga reiterato, il BAN 📛;
+Lo Staff decide con la massima discrezionalità e il suo giudizio è insindacabile;
+ Si richiede un&amp;rsquo;immagine del profilo per essere riconoscibili; username ed immagini offensivi saranno sanzionati; VIETATO il FLOOD; cerca di racchiudere un pensiero in un singolo messaggio; evita di inoltrare molti messaggi. il bot ha delle funzioni anti-flood automatiche. NO immagini/foto/screenshot gore o di natura pornografica; NO offese e bestemmie nei messaggi, nell&amp;rsquo;immagine del profilo, nel nome utente (salvo un contesto scherzoso e colloquiale reciproco); NO sponsorizzazione diretta di corsi a pagamento; è possibile segnalare e parlare di corsi anche privati senza scadere in mere marchette  </description>
+    </item>
+    
   </channel>
 </rss>
