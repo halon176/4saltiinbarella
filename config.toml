@@ -41,7 +41,6 @@ googleAnalytics = 'UA-213628327-1'
     # { soundcloud = "https://soundcloud.com/username" },
     # { steam = "https://steamcommunity.com/profiles/userid" },
      { telegram = { href = "https://t.me/quattrosaltiinbarella", text = "Gruppo Telegram"}},
-     { link = { href = "regolamento", text = "Regolamento Gruppo" } },
      { instagram = { href="https://instagram.com/4saltiinbarella.official", text="Instagram" }},
      { facebook = { href = "https://www.facebook.com/4sib.official", text="Pagina Facebook"}},
     # { tiktok = "https://tiktok.com/@username" },
@@ -51,5 +50,7 @@ googleAnalytics = 'UA-213628327-1'
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
       { email = { href = "mailto:info@4saltiinbarella.it", text="email"}},
+      { link = { href = "regolamento", text = "Regolamento Gruppo" } },
+
   ]
 
