@@ -51,6 +51,7 @@ googleAnalytics = 'UA-213628327-1'
     # { youtube = "https://youtube.com/username" },
       { email = { href = "mailto:info@4saltiinbarella.it", text="email"}},
       { link = { href = "regolamento", text = "Regolamento Gruppo" } },
+      { link = { href = "ancielodelgiorno", text = "Ancielo del giorno 👼 " } },
 
   ]
 
