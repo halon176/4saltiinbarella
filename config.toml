@@ -43,11 +43,12 @@ googleAnalytics = 'UA-213628327-1'
      { telegram = { href = "https://t.me/quattrosaltiinbarella", text = "Gruppo Telegram"}},
      { instagram = { href="https://instagram.com/4saltiinbarella.official", text="Instagram" }},
      { facebook = { href = "https://www.facebook.com/4sib.official", text="Pagina Facebook"}},
-    # { tiktok = "https://tiktok.com/@username" },
+     { tiktok = { href ="https://tiktok.com/@4saltiinbarella.official" , text="TikTok" }},
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
+    
     # { youtube = "https://youtube.com/username" },
       { email = { href = "mailto:info@4saltiinbarella.it", text="email"}},
       { link = { href = "regolamento", text = "Regolamento Gruppo" } },
